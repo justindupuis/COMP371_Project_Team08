@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COMP371_Project_Team08", "COMP371_Project_Team08\COMP371_Project_Team08.vcxproj", "{6D7A2E20-4C6D-4334-9BE6-7049A282E7E0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COMP371Lab1", "..\..\..\..\Lab1\VS2013_Solution\comp371lab1\COMP371Lab1.vcxproj", "{A8DB44C8-E361-4996-8208-3414F4059276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,13 @@ Global
 		{6D7A2E20-4C6D-4334-9BE6-7049A282E7E0}.Release|x64.Build.0 = Release|x64
 		{6D7A2E20-4C6D-4334-9BE6-7049A282E7E0}.Release|x86.ActiveCfg = Release|Win32
 		{6D7A2E20-4C6D-4334-9BE6-7049A282E7E0}.Release|x86.Build.0 = Release|Win32
+		{A8DB44C8-E361-4996-8208-3414F4059276}.Debug|x64.ActiveCfg = Debug|Win32
+		{A8DB44C8-E361-4996-8208-3414F4059276}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8DB44C8-E361-4996-8208-3414F4059276}.Debug|x86.Build.0 = Debug|Win32
+		{A8DB44C8-E361-4996-8208-3414F4059276}.Release|x64.ActiveCfg = Debug|Win32
+		{A8DB44C8-E361-4996-8208-3414F4059276}.Release|x64.Build.0 = Debug|Win32
+		{A8DB44C8-E361-4996-8208-3414F4059276}.Release|x86.ActiveCfg = Debug|Win32
+		{A8DB44C8-E361-4996-8208-3414F4059276}.Release|x86.Build.0 = Debug|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
